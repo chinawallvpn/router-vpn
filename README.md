@@ -90,6 +90,8 @@ OK，只要确认家里的网络环境和路由器设备满足了这三个基础
 
 ### 路由器VPN首选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>
 
+![路由器翻墙教程：最好用的路由器VPN推荐 - StrongVPN](https://raw.githubusercontent.com/chinawallvpn/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8VPN-StrongVPN.png)
+
 在路由器翻墙领域，StrongVPN绝对是一个绕不开的名字。作为一家技术底蕴深厚的老牌服务商，它把大量精力投入到了底层协议的适配上，打造出了目前市面上非常全面的路由器兼容生态。如果你打算给家里的路由器刷入第三方开源系统，StrongVPN会是一个非常可靠的选择。
 
 首先，StrongVPN的硬件支持列表非常广。无论你用的是华硕原厂的AsusWRT固件，还是自己动手刷的DD-WRT、OpenWRT，甚至是Tomato、Sabai以及MikroTik等开源系统，它都能完美兼容。为了降低普通用户的配置门槛，StrongVPN官方在后台专门为各类固件提供了自动安装脚本（Auto-Installer）。即使你不懂复杂的网络代码，也能顺着官网详尽的图文指南，一步步把翻墙节点写入路由器底层，免去了繁琐的手动参数调试。
@@ -102,6 +104,8 @@ OK，只要确认家里的网络环境和路由器设备满足了这三个基础
 
 ### 路由器VPN备选：<a href="https://wallvpn.com/go/purevpn/">PureVPN</a>
 
+![路由器翻墙教程：最好用的路由器VPN推荐 - PureVPN](https://raw.githubusercontent.com/chinawallvpn/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8VPN-PureVPN.png)
+
 市面上大部分VPN软件在路由器端只能提供一堆复杂的配置文件，需要用户自己去后台摸黑填写。而PureVPN的做法要聪明得多，它针对DD-WRT和Tomato这两款主流的开源固件，直接开发了专属的路由器可视化插件。这意味着你根本不需要在底层系统里复制粘贴代码，只要装上这个插件，就能在路由器的管理界面里像用手机App一样，直接输入账号密码，通过下拉菜单一键切换国家节点。这种图形化的操作逻辑，大幅降低了普通人折腾路由器的技术门槛。
 
 如果你通过路由器翻墙的核心需求是玩主机游戏（比如PS5、Xbox），那么PureVPN会非常对你的胃口。它提供了一项非常实用的附加服务——独立端口转发（Port Forwarding）。在路由器后台挂上PureVPN并开启该功能后，能够有效解决外服联机时最让人头疼的NAT类型受限问题。再配合其支持的WireGuard轻量化协议，不仅对路由器CPU的消耗极小，还能显著降低联机对战时的网络延迟。
@@ -111,6 +115,8 @@ OK，只要确认家里的网络环境和路由器设备满足了这三个基础
 在隐私保护方面，全屋流量都会经过PureVPN的AES-256位加密通道，并且它严格执行了经过独立审计的无日志政策，确保宽带运营商无法窥探你的上网痕迹。在价格上，PureVPN一直主打亲民路线，2年套餐每月仅需2.15美金。加上比同行多出一天的31天无理由退款保证，以及24小时在线的真人客服支持，让你在自己的路由器上做实机测试时没有任何后顾之忧。
 
 ### 路由器VPN备选：<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark</a>
+
+![路由器翻墙教程：最好用的路由器VPN推荐 - Surfshark](https://raw.githubusercontent.com/chinawallvpn/router-vpn/refs/heads/main/image/%E8%B7%AF%E7%94%B1%E5%99%A8VPN-Surfshark.png)
 
 除了StrongVPN和PureVPN，Surfshark也是一款值得尝试的路由器VPN。它不仅支持华硕AsusWRT、梅林（Merlin）、DD-WRT、OpenWRT以及GL.iNet等主流系统，还全面开放了WireGuard协议的配置文件。由于WireGuard的代码非常精简，能大幅降低路由器CPU的加解密负担。这意味着即使是硬件配置一般的路由器，也能借此突破传统协议的速度瓶颈，显著提升VPN状态下的网络吞吐量，有效缓解因CPU满载导致的网络卡顿与断流。在配置方面，Surfshark官网后台会自动生成专属的节点参数与密钥，配合清晰的图文教程，只需将代码复制进路由器后台即可完成部署。
 
